@@ -1,4 +1,4 @@
-> 作者：连玉君 ([知乎](https://zhuanlan.zhihu.com/arlion) | [简书](http://www.jianshu.com/u/69a30474ef33) | [码云](https://gitee.com/arlionn))
+ > 作者：连玉君 ([知乎](https://zhuanlan.zhihu.com/arlion) | [简书](http://www.jianshu.com/u/69a30474ef33) | [码云](https://gitee.com/arlionn))
 
 > Stata连享会 [精彩推文1](https://gitee.com/arlionn/stata_training/blob/master/README.md)  || [精彩推文2](https://github.com/arlionn/stata/blob/master/README.md)
 
@@ -17,7 +17,7 @@
 ----
 对于 Stata 用户而言，我们可以用 `markdown`, `markdoc`, `markstat` 等命令直接写 dofile，并将文章正文和图形表格等一并输出为`网页`，`Word` 或 `PDF` 等格式，即所谓的**一种输入，多种输出**。更为重要的是，可以实现**可重复写作**，即论文中的数据、模型发生变化后，只需修改完 Stata 代码后，使用上述命令更新输出结果即可。你不用担心**老板的反反复复了**。
 
-> 目录
+> 目录     
 [1. Markdown 基础](#1-markdown-基础)     
  [1.1 标题](#11-标题)     
  [1.2 列表](#12-列表)     
