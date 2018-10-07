@@ -1,0 +1,2 @@
+- `help ksi`  // Krugman specialization index.  
+    - The module computes Krugman specialization index that compares      similarity of a region's production pattern with benchmark reference economy (e.g. aggregate national output).

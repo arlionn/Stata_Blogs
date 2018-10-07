@@ -1,0 +1,1 @@
+- Raymond Kluender and Benjamin Marx， 2016， [Programming with Stata](https://www.povertyactionlab.org/sites/default/files/resources/IAPStataWorkshopSlides.pdf) 文中的建议都很中肯、实用。
