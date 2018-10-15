@@ -4,7 +4,7 @@
 > &emsp;&emsp;
 > Stata连享会 [精彩推文1](https://gitee.com/arlionn/Stata_training/blob/master/README.md) || [精彩推文2](https://github.com/arlionn/Stata/blob/master/README.md)
 
----
+
 注：该文已发表。    
  连玉君, 廖俊平, 2017, 如何检验分组回归后的组间系数差异?, 郑州航空工业管理学院学报 35, 97-109\. [PDF 原文下载](https://gitee.com/arlionn/jianshu/raw/master/PDF%E4%B8%8B%E8%BD%BD/%E8%BF%9E%E7%8E%89%E5%90%9B-2017-%E5%A6%82%E4%BD%95%E6%A3%80%E9%AA%8C%E5%88%86%E7%BB%84%E5%9B%9E%E5%BD%92%E5%90%8E%E7%9A%84%E7%BB%84%E9%97%B4%E7%B3%BB%E6%95%B0%E5%B7%AE%E5%BC%82.pdf)  || [PDF-万方](https://gitee.com/arlionn/Stata/attach_files/download?i=136991&u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F03%2FAC%2FPaAvDFr71kCAThGsAAft58PjYKc432.pdf%3Ftoken%3D96a722e84d95bcebad7e18b6c1acfca5%26ts%3D1526453824%26attname%3D%25E8%25BF%259E%25E7%258E%2589%25E5%2590%259B_%25E5%25BB%2596%25E4%25BF%258A%25E5%25B9%25B3_2017_%25E5%25A6%2582%25E4%25BD%2595%25E6%25A3%2580%25E9%25AA%258C%25E5%2588%2586%25E7%25BB%2584%25E5%259B%259E%25E5%25BD%2592%25E5%2590%258E%25E7%259A%2584%25E7%25BB%2584%25E9%2597%25B4%25E7%25B3%25BB%25E6%2595%25B0%25E5%25B7%25AE%25E5%25BC%2582.pdf)
 ---
