@@ -1,4 +1,4 @@
-> [Stata 现场培训报名中](https://www.jianshu.com/p/af6fb0448297)
+> Stata连享会 [精彩推文1](https://gitee.com/arlionn/stata_training/blob/master/README.md)  || [精彩推文2](https://github.com/arlionn/stata/blob/master/README.md)
 
 
 知乎上截取的：
@@ -74,9 +74,7 @@ gr_edit plotregion1.added_text[1].text.Arrpush 亲爱的，生日快乐！
 - **招募英才：** 欢迎加入我们的团队，一起学习 Stata。合作编辑或撰写稿件五篇以上，即可**免费**获得 Stata 现场培训 (初级或高级选其一) 资格。
 - **联系邮件：** StataChina@163.com
 
-> [Stata 现场培训报名中](https://www.jianshu.com/p/af6fb0448297)
->
->![连玉君Stata现场班报名中](https://upload-images.jianshu.io/upload_images/7692714-78fa5fece25aa2fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> Stata连享会 [精彩推文1](https://gitee.com/arlionn/stata_training/blob/master/README.md)  || [精彩推文2](https://github.com/arlionn/stata/blob/master/README.md)
 
 
 ---
