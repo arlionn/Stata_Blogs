@@ -1,6 +1,10 @@
 # Stata_Blogs
 Stata连享会推文集锦
 
+## 近期现场班
+
+[== 2018.11.23-25 Stata现场培训-内生性专题 ==](https://github.com/arlionn/Stata_Blogs/blob/master/2018.11%E6%9C%88Stata%E7%8E%B0%E5%9C%BA%E5%9F%B9%E8%AE%AD-%E5%B1%B1%E8%A5%BF%E8%B4%A2%E5%A4%A7.md)   || [-点击下载 PDF 课程大纲-](https://gitee.com/arlionn/stata_training/raw/master/Done/Stata_2018_Train.pdf)
+
 ---
 1. [==2018.11.23-25 Stata现场培训-山西财大==](https://github.com/arlionn/Stata_Blogs/blob/master/2018.11%E6%9C%88Stata%E7%8E%B0%E5%9C%BA%E5%9F%B9%E8%AE%AD-%E5%B1%B1%E8%A5%BF%E8%B4%A2%E5%A4%A7.md)                                                                                                                                                
 1. [Abadie-新作--简明-IV,-DID,-RDD-教程和综述](https://github.com/arlionn/Stata_Blogs/blob/master/Abadie-%E6%96%B0%E4%BD%9C--%E7%AE%80%E6%98%8E-IV%2C-DID%2C-RDD-%E6%95%99%E7%A8%8B%E5%92%8C%E7%BB%BC%E8%BF%B0.md)                                                                               
