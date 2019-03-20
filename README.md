@@ -3,10 +3,10 @@ Stata连享会推文集锦
 
 ## 近期现场班
 
-[== 2018.11.23-25 Stata现场培训-内生性专题 ==](https://github.com/arlionn/Stata_Blogs/blob/master/2018.11%E6%9C%88Stata%E7%8E%B0%E5%9C%BA%E5%9F%B9%E8%AE%AD-%E5%B1%B1%E8%A5%BF%E8%B4%A2%E5%A4%A7.md)   || [-点击下载 PDF 课程大纲-](https://gitee.com/arlionn/stata_training/raw/master/Done/Stata_2018_Train.pdf)
+[== 2019.6.27-30 Stata现场培训-空间计量专题 ==](https://gitee.com/arlionn/stata_training/blob/master/README.md) ，西安-西北工业大学
 
 ---
-1. [==2018.11.23-25 Stata现场培训-山西财大==](https://github.com/arlionn/Stata_Blogs/blob/master/2018.11%E6%9C%88Stata%E7%8E%B0%E5%9C%BA%E5%9F%B9%E8%AE%AD-%E5%B1%B1%E8%A5%BF%E8%B4%A2%E5%A4%A7.md)                                                                                                                                                
+                                                                                                                                         
 1. [Abadie-新作--简明-IV,-DID,-RDD-教程和综述](https://github.com/arlionn/Stata_Blogs/blob/master/Abadie-%E6%96%B0%E4%BD%9C--%E7%AE%80%E6%98%8E-IV%2C-DID%2C-RDD-%E6%95%99%E7%A8%8B%E5%92%8C%E7%BB%BC%E8%BF%B0.md)                                                                               
 1. [Cameron-教授提供的-Stata-资源](https://github.com/arlionn/Stata_Blogs/blob/master/Cameron-%E6%95%99%E6%8E%88%E6%8F%90%E4%BE%9B%E7%9A%84-Stata-%E8%B5%84%E6%BA%90.md)                                                                                                                         
 1. [DSGE-模型的-Stata-实现](https://github.com/arlionn/Stata_Blogs/blob/master/DSGE-%E6%A8%A1%E5%9E%8B%E7%9A%84-Stata-%E5%AE%9E%E7%8E%B0.md)                                                                                                                                                      
