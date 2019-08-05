@@ -1,9 +1,49 @@
 # Stata_Blogs
 Stata连享会推文集锦
 
-## 近期现场班
+&emsp;
+ 
+> Stata 连享会： [知乎](https://zhuanlan.zhihu.com/arlion) | [简书](http://www.jianshu.com/u/69a30474ef33) | [码云](https://gitee.com/arlionn) | [CSDN](https://blog.csdn.net/arlionn)
 
-[== 2019.6.27-30 Stata现场培训-空间计量专题 ==](https://gitee.com/arlionn/stata_training/blob/master/README.md) ，西安-西北工业大学
+
+
+---
+> ### 连享会 现场班-精品课程
+
+
+> - [2019连享会-实证研究方法与经典论文专题班](https://gitee.com/arlionn/Course/blob/master/2019Papers.md) (8月17-23，西安)       
+> &emsp;  剖析经典，成就经典
+> &emsp;    
+> - [2019金秋十月-空间计量专题班](https://gitee.com/arlionn/Course/blob/master/2019Spatial.md)（10月24-27日，成都）    
+> &emsp;  掌握一个新的工具，开启一扇新的大门 
+> &emsp;    
+> - [2020寒假Stata现场班](https://gitee.com/arlionn/Course/blob/master/StataFull.md) (2020年1月8-18日，北京)       
+> &emsp; 完整的知识架构是你长期成长的动力源泉……
+
+
+
+#### A. [连享会2019实证研究方法与经典论文专题班](https://gitee.com/arlionn/Course/blob/master/2019Papers.md) 
+- **时间地点：** 2019年8月17-23日；西安-西北工业大学  
+- **主讲嘉宾**：连玉君 (中山大学，专题 T1-T6)；江艇 (中国人民大学，专题 T7-T12)
+- **授课内容：** 实证研究方法与经典论文 (9 篇) 重现
+  - **课程要点：** 研究设计、稳健性检验、内生性问题及论文的写作。
+  - **主要方法：** IV 估计、匹配 (Matching)、倍分法 (DID)、Matching+DID、双向固定效应模型、动态面板数据模型等
+- **课程主页：** [连享会2019实证研究方法与经典论文专题班](https://gitee.com/arlionn/Course/blob/master/2019Papers.md)
+
+#### B. [2019金秋十月-空间计量专题班](https://gitee.com/arlionn/Course/blob/master/2019Spatial.md)  
+- **时间地点：** 2019年10月24-27日；成都-电子科技大学  
+- **主讲嘉宾**：杨海生 (中山大学)
+- **授课内容：** 空间计量模型的设定、估计以及相应的实证应用
+  - **课程要点：** 空间计量模型的基本架构、空间滞后模型、空间面板模型、 空间 Probit 和 空间 Tobit 模型等。
+- **课程主页：** [2019金秋十月-空间计量专题班](https://gitee.com/arlionn/Course/blob/master/2019Spatial.md)  
+
+#### C. [2020寒假Stata现场班](https://gitee.com/arlionn/Course/blob/master/StataFull.md)  
+- **时间地点：** 2020年1月8-18日；北京-海淀区
+- **主讲嘉宾**：连玉君 (中山大学)；江艇 (中央财经大学)
+- **授课内容：** 全面介绍 Stata 数据处理、编程、主流计量方法，通过剖析经典论文掌握论文写作方法
+  - **课程要点：** 模型设定、交乘项、静态和动态面板数据模型、面板门槛模型、内生性专题 (DID, PSM, RDD)，合成控制法，Probit模型等。
+- **课程主页：** [2020寒假Stata现场班](https://gitee.com/arlionn/Course/blob/master/StataFull.md) 
+&emsp;
 
 ---
                                                                                                                                          
